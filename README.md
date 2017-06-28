@@ -1,0 +1,2 @@
+# SpaceFiller
+Application designed to be used under testing environments for stress testing drive systems. Note: Application DOES NOT delete data that is written to disk, even what it attemps to fill. Please be cautious with this application as it can cause instability within the system.
